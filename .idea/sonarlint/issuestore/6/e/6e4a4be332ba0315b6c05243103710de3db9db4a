@@ -1,0 +1,5 @@
+
+;python:S125"Remove this commented out code.(Ï›ìşÿÿÿÿ
+Rpython:PrintStatementUsage"-Replace print statement by built-in function.(÷ÇÇY
+gpython:S101"KRename class "Test_A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ô·ÊËùÿÿÿÿ
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(ÉÑûÀøÿÿÿÿ

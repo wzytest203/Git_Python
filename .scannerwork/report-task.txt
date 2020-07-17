@@ -1,0 +1,6 @@
+projectKey=PYTHON_DEMO_TEST_Pie
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=PYTHON_DEMO_TEST_Pie
+ceTaskId=AXJ4D7RzFTRrQe0HlHFi
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXJ4D7RzFTRrQe0HlHFi

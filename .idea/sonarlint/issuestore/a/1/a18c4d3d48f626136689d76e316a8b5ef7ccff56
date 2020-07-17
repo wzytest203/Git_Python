@@ -1,0 +1,14 @@
+
+Spython:PrintStatementUsage"-Replace print statement by built-in function.(Î¹ŸÍ
+gpython:S101l"KRename class "Test_C" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(¼ôÒúÿÿÿÿ
+Spython:PrintStatementUsage"-Replace print statement by built-in function.(¦¡ÌË
+cpython:S1192"KDefine a constant instead of duplicating this literal "test start" 3 times.(Î¹ŸÍ
+Spython:PrintStatementUsage"-Replace print statement by built-in function.(‘‹µ«
+7python:S125”"Remove this commented out code.(“íÉ
+gpython:S101 "KRename class "Test_B" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(ù÷ğÄùÿÿÿÿ
+gpython:S101"KRename class "Test_A" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ô·ÊËùÿÿÿÿ
+;python:S125"Remove this commented out code.(Ï›ìşÿÿÿÿ
+wpython:S1192="ZDefine a constant instead of duplicating this literal "//input[@type='checkbox']" 4 times.(›áÙÏûÿÿÿÿ
+6python:S125	"Remove this commented out code.(ßÆò
+apython:S1192"IDefine a constant instead of duplicating this literal "test end" 3 times.(‘‹µ«
+Spython:PrintStatementUsage"-Replace print statement by built-in function.(ôı¹Õ

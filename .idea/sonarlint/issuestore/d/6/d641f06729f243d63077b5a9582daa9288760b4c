@@ -1,0 +1,28 @@
+
+Spython:PrintStatementUsageJ"-Replace print statement by built-in function.(—è‹
+Xpython:PrintStatementUsageH"-Replace print statement by built-in function.(®ÿõÆüÿÿÿÿ
+ppython:S1542V"SRename function "Screenshot" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ã‚ºªùÿÿÿÿ
+ppython:S1542"XRename function "Browser_Control" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(–€Ô
+Spython:PrintStatementUsageL"-Replace print statement by built-in function.(ÔÃ¨§
+6python:S125h"Remove this commented out code.(ø„÷
+ppython:S1542Ì"RRename function "Key_Board" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îûŒûùÿÿÿÿ
+“python:S1192"{Define a constant instead of duplicating this literal "file:///C:/Users/Administrator/Desktop/web_test/index.html" 5 times.(ãÕÇ—
+upython:S1542/"XRename function "WebElement_Test" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ºÒŸÚøÿÿÿÿ
+wpython:S1192x"ZDefine a constant instead of duplicating this literal "//input[@type='checkbox']" 4 times.(İÎœÍûÿÿÿÿ
+5python:S125s"Remove this commented out code.(° 
+;python:S125"Remove this commented out code.(š¸”äûÿÿÿÿ
+7python:S125¡"Remove this commented out code.(õšââ
+opython:S11920"WDefine a constant instead of duplicating this literal "https://www.baidu.com/" 5 times.(°öÂ¤
+vpython:S1542p"YRename function "Checkboxs_Choose" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§­ê¾şÿÿÿÿ
+6python:S125"Remove this commented out code.(÷•ÔÊ
+ipython:S1192I"RDefine a constant instead of duplicating this literal "//input[@id='su']" 3 times.(²¿Î
+lpython:S1542¬"SRename function "Mouse_Test" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’éè¢
+lpython:S1542‰"SRename function "Alert_Test" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œŸüì
+rpython:S1192°"YDefine a constant instead of duplicating this literal "//input[@id='CheckAll3']" 4 times.(è¤
+spython:S1542B"VRename function "Print_Message" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¬ÿğ¸ûÿÿÿÿ
+ppython:S11922"SDefine a constant instead of duplicating this literal "//input[@id='kw']" 15 times.(²¦†Âûÿÿÿÿ
+7python:S125Â"Remove this commented out code.(‚Ûõô
+ppython:S1542a"SRename function "Sleep_Time" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¼íÎ¾ùÿÿÿÿ
+mpython:S1542ä"TRename function "Upload_Test" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’ÇÛÖ
+Xpython:PrintStatementUsageN"-Replace print statement by built-in function.(Æû—şÿÿÿÿ
+Spython:PrintStatementUsageF"-Replace print statement by built-in function.(ï²ÉÓ

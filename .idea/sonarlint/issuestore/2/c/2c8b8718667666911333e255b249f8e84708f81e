@@ -1,0 +1,7 @@
+
+ppython:S101"TRename class "Web_Search_Open" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(›¡‰øÿÿÿÿ
+kpython:S100"TRename method "Search_Python" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ìáÓ¡
+lpython:S101"URename class "Web_Search_Close" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(Ü—íÿ
+kpython:S100"TRename method "Close_browser" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(é™™ğ
+mpython:S100"VRename method "Search_Selenium" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ß®İŸ
+vpython:S100	"SRename method "Open_browser" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‹Í€ÿÿÿÿÿ8£ĞÄ¦.
